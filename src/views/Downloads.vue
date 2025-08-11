@@ -37,7 +37,7 @@
             <div class="release-downloads">
               <h4>Download Options</h4>
               <div class="download-grid">
-                <a href="YAOv2.0.diploid.fasta.gz" class="download-item primary">
+                <a href="https://github.com/KANGYUlab/t2t-yao-portal/releases/download/v2.0/YAOv2.0.diploid.fasta.gz" class="download-item primary">
                   <div class="download-icon">
                     <i class="fas fa-file-archive"></i>
                   </div>
@@ -83,7 +83,7 @@
             <div class="release-downloads">
               <h4>Download Options</h4>
               <div class="download-grid">
-                <a href="YAOv1.1.diploid.fasta.gz" class="download-item primary">
+                <a href="https://github.com/KANGYUlab/t2t-yao-portal/releases/download/v1.1/YAOv1.1.diploid.fasta.gz" class="download-item primary">
                   <div class="download-icon">
                     <i class="fas fa-file-archive"></i>
                   </div>
