@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+docs/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Env
+.env
+.env.*.local
+
+# Netlify
+.netlify/
+
+# Large downloadable assets (keep locally, upload via Releases)
+public/downloads/*.gz

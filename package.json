@@ -1,0 +1,30 @@
+{
+  "name": "t2t-yao-download-portal",
+  "version": "1.0.0",
+  "description": "T2T-YAO Genome Data Download Portal",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "netlify-build": "echo 'Static site - no build needed'",
+    "deploy": "netlify deploy --prod"
+  },
+  "dependencies": {
+    "vue": "^3.3.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-plugin-eslint": "^5.0.0",
+    "eslint": "^8.0.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "netlify-cli": "^17.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 
